@@ -2,11 +2,11 @@
 
    - [ ] Cambiador
 
-   - [ ] Algodón
+   - [ x ] Algodón
 
-   - [ ] Óleo calcáreo
+   - [ x ] Óleo calcáreo
 
-   - [ ] Toallitas húmedas
+   - [ x ] Toallitas húmedas
 
    - [ ] Pañales
 
@@ -16,21 +16,21 @@
 
    - [ ] Pomada anti paspaduras
 
-    📍 Datos útiles - Papelera Constitución: Brasil 1221 CABA | 1122771227 (Tenés la tabla de precios guardada en tu archivo original).
+    📍 Datos útiles - Papelera Constitución: Brasil 1221 CABA | 1122771227
 
 ### 🧼 Higiene y baño
 
-   - [ ] Reductor para apoyar al bebé (Ver video de referencia / Link de compra)
+   - [ ] Reductor para apoyar al bebé
 
    - [ ] Jabón apto RN
 
    - [ ] Toallas (preferentemente sin capucha, o una normal bien lavada)
 
-   - [ ] Bañera (opcional extra, Link de compra)
+   - [ ] Bañera
 
 ### 💤 Sueño
 
-   - [x] Cuna o colecho (Practicuna colecho recomendada)
+   - [x] Cuna
 
    - [ ] Funda impermeable / cobertor plástico
 
@@ -38,10 +38,7 @@
 
    - [ ] Lámpara / luz tenue para el velador
 
-   - [ ] Monitor (opcional para más adelante)
-
-    📘 Guía de Sueño Seguro - SAP
-
+   
 ### 🍼 Lactancia
 Lactancia Materna Exclusiva (LME)
 
@@ -59,9 +56,9 @@ Lactancia Materna Exclusiva (LME)
 
 ### 🍃 Salidas y paseos
 
-   - [x] Cochecito ultra compacto, de plegado con una mano (Lista de favoritos)
+   - [x] Cochecito
 
-   - [x] Huevito adaptable al cochecito (preferentemente reclinable)
+   - [x] Huevito adaptable al cochecito
 
    - [ ] Portabebés / mochila ergonómica
 
@@ -122,7 +119,7 @@ Lactancia Materna Exclusiva (LME)
 
    - [ ] DNI de ambos
 
-   - [ ] Dinero en efectivo o tarjeta
+   - [ ] Efectivo
 
 #### Mamá
 

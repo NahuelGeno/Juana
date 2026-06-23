@@ -2,11 +2,11 @@
 
    - [ ] Cambiador
 
-   - [ x ] Algodón
+   - [x] Algodón
 
-   - [ x ] Óleo calcáreo
+   - [x] Óleo calcáreo
 
-   - [ x ] Toallitas húmedas
+   - [x] Toallitas húmedas
 
    - [ ] Pañales
 
@@ -143,9 +143,7 @@ Lactancia Materna Exclusiva (LME)
 
 #### Papá
 
-   - [ ] Mantita para abrigarse
-
-   - [ ] Cargadores
+   - [ ] Cargador
 
    - [ ] Cartelito para el cuarto
 

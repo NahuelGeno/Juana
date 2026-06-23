@@ -1,4 +1,4 @@
-🚼 Cambio de pañal
+### 🚼 Cambio de pañal
 
    - [ ] Cambiador
 
@@ -18,7 +18,7 @@
 
     📍 Datos útiles - Papelera Constitución: Brasil 1221 CABA | 1122771227 (Tenés la tabla de precios guardada en tu archivo original).
 
-🧼 Higiene y baño
+### 🧼 Higiene y baño
 
    - [ ] Reductor para apoyar al bebé (Ver video de referencia / Link de compra)
 
@@ -28,7 +28,7 @@
 
    - [ ] Bañera (opcional extra, Link de compra)
 
-💤 Sueño
+### 💤 Sueño
 
    - [x] Cuna o colecho (Practicuna colecho recomendada)
 
@@ -42,7 +42,7 @@
 
     📘 Guía de Sueño Seguro - SAP
 
-🍼 Lactancia
+### 🍼 Lactancia
 Lactancia Materna Exclusiva (LME)
 
    - [ ] Extractor manual o eléctrico
@@ -53,13 +53,11 @@ Lactancia Materna Exclusiva (LME)
 
    - [ ] Almohadón de lactancia
 
-Fórmula
-
    - [ ] Mamaderas
 
    - [ ] Cepillo limpia mamaderas
 
-🍃 Salidas y paseos
+### 🍃 Salidas y paseos
 
    - [x] Cochecito ultra compacto, de plegado con una mano (Lista de favoritos)
 
@@ -69,7 +67,7 @@ Fórmula
 
    - [x] Plásticos de lluvia y mosquitero
 
-🎀 Ropita y accesorios
+### 🎀 Ropita y accesorios
 
 (Cálculo estimado: unos 6 conjuntitos para Recién Nacido)
 
@@ -81,14 +79,14 @@ Fórmula
 
    - [ ] Gorrito (2, no más)
 
-   - [ ] Babitas (¡Mucha cantidad!)
+   - [ ] Babitas
 
-   - [ ] Baberos (¡Mucha cantidad!)
+   - [ ] Baberos
 
    - [ ] Mantita más gruesa
 
-👜 Bolso para el Parto
-Bebé
+### 👜 Bolso para el Parto
+#### Bebé
 
    - [ ] Tres conjuntos de ajuares
 
@@ -114,7 +112,7 @@ Bebé
 
    - [ ] Chupete
 
-Documentación
+#### Documentación
 
    - [ ] Orden de internación autorizada por la obra social (si el médico lo indicó)
 
@@ -126,7 +124,7 @@ Documentación
 
    - [ ] Dinero en efectivo o tarjeta
 
-Mamá
+#### Mamá
 
    - [ ] Bombachas tipo trusas y/o descartables Plenitud
 
@@ -146,18 +144,12 @@ Mamá
 
    - [ ] Artículos de aseo (shampoo, crema de enjuague, cepillo/pasta de dientes, cremas, desodorante sin fragancia, cepillo de pelo y secador)
 
-Papá / Acompañante
+#### Papá
 
    - [ ] Mantita para abrigarse
-
-Otros
 
    - [ ] Cargadores
 
    - [ ] Cartelito para el cuarto
 
    - [ ] Equipo de mate 🧉
-
-🛍️ Pendientes generales
-
-   - [ ] Comprar en Once

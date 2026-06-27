@@ -1,7 +1,7 @@
 ## Once
 
 #### Brisa
-- [ ] Medias Para Bri
+- [x] Medias Para Bri
 - [ ] Corpiños para amamantar
 - [ ] Camison manga larga
 - [ ] Oleo Calcario Verdadero
